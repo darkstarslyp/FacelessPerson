@@ -1,0 +1,3 @@
+[submodule "sdm"]
+	path = 3dparty/sdm
+	url = https://github.com/RoboPai/sdm
